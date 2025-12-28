@@ -1,0 +1,2 @@
+# Bakken vs. Bazhenov Comparative Analysis
+This repository contains a structured analysis comparing the geological, engineering, and geopolitical aspects of the Bakken and Bazhenov unconventional shale plays. This project is intended to support joint venture development activities.
